@@ -69,6 +69,9 @@ Pickle
 
 # Files
 MLAssgn2aFH.py
+InsuranceGUI.py
+insurance_model.pkl
+scaler.pkl
 insuranceFH.csv
 README.md
 MLAss2(a)Output1FH.jpg
@@ -78,7 +81,9 @@ BoxplotBMLFH.png
 CountplotBMLFH.png
 HeatmapBMLFH.png
 HistplotBMLFH.png
+Logo.png
 MultipleLinearRegressionFH.png
+InsurancePredictionSystem-FH.mp4
 
 # Output
 Project Output:
